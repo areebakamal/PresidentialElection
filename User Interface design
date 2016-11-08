@@ -1,0 +1,26 @@
+<html>
+
+<head>
+
+<title>US ELECTIONS</title>
+
+<body background="flag.jpg">
+
+<h1 align="center"><font color ="yellow" size="10"> HILLARY CLINTON Vs DONALD TRUMP </font></h1>
+
+<img src="hillary.jpg" alt="Smiley face" height="400" width="300" hspace="80" border="10">
+
+<a href="https://www.youtube.com/watch?v=GQFGTDFvMSc"><font size="6" color="white"><strong>Want to watch the fiery debate?</strong></font></a>
+<img src="trump2.jpg" alt="Smiley face" height="400" width="300" border="5">
+
+<p align="center"><font color ="yellow" size="5">Click on any candidate to know what the world feels about the candidate based on tweets</font></p>
+<form action="action_page.php">
+
+<input type="submit" value="HILLARY CLINTON">
+
+<input type="submit" value=" DONALD TRUMP">
+</form>
+
+
+</body>
+</html>
